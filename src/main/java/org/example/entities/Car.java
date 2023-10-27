@@ -1,4 +1,4 @@
-package org.example.business;
+package org.example.entities;
 
 public class Car {
     private int id;
